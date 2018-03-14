@@ -1,0 +1,19 @@
+{
+  "name": "watch-file-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NodeWatchFileSystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosheng-git/node-watch-file-system.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaosheng-git/node-watch-file-system/issues"
+  },
+  "homepage": "https://github.com/chaosheng-git/node-watch-file-system#readme"
+}
